@@ -1,0 +1,319 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="===== VIP Hebrew's =====" tvg-logo="" group-title="",===== VIP Hebrew's =====
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/5962
+#EXTINF:-1 tvg-ID="channel11.il" tvg-name="VIP IL: Kan11 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Kan11 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/18131
+#EXTINF:-1 tvg-ID="kan.il" tvg-name="VIP IL: Kan11 HD" tvg-logo="http://image.ibb.co/dJpKfn/kan11.png" group-title="Live: Hebrew",VIP IL: Kan11 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/3298
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Makan HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Makan HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/40335
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Makan" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Makan
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/18132
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Channel 9 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Channel 9 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/40334
+#EXTINF:-1 tvg-ID="channel9.il" tvg-name="VIP IL: Channel 9" tvg-logo="https://image.ibb.co/dGvBo7/Channel9.png" group-title="Live: Hebrew",VIP IL: Channel 9
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6105
+#EXTINF:-1 tvg-ID="12keshet.il" tvg-name="VIP IL: Channel 12 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Channel 12 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19374
+#EXTINF:-1 tvg-ID="12keshet.il" tvg-name="VIP IL: Channel 12 HD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",VIP IL: Channel 12 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16272
+#EXTINF:-1 tvg-ID="12keshet.il" tvg-name="VIP IL: Channel 12 SD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",VIP IL: Channel 12 SD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/14596
+#EXTINF:-1 tvg-ID="13reshet.il" tvg-name="VIP IL: Channel 13 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Channel 13 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19375
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Channel 13 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Channel 13 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/20218
+#EXTINF:-1 tvg-ID="13reshet.il" tvg-name="VIP IL: Channel 13 SD" tvg-logo="https://image.ibb.co/iyLcT7/ch13.png" group-title="Live: Hebrew",VIP IL: Channel 13 SD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/3299
+#EXTINF:-1 tvg-ID="channel20.il" tvg-name="VIP IL: Channel 20" tvg-logo="https://preview.ibb.co/eD6j87/Channel20.png" group-title="Live: Hebrew",VIP IL: Channel 20
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/3301
+#EXTINF:-1 tvg-ID="channelone.il" tvg-name="VIP IL: Channel 23 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Channel 23 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19376
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Channel 23 HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Channel 23 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/40771
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Channel 24 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Channel 24 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/41254
+#EXTINF:-1 tvg-ID="music24.il" tvg-name="VIP IL: Channel 24" tvg-logo="https://image.ibb.co/dVt9an/Channel24.png" group-title="Live: Hebrew",VIP IL: Channel 24
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/3303
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Yam Tihoni" tvg-logo="https://image.ibb.co/dmS7T7/yamtihoni.png" group-title="Live: Hebrew",VIP IL: Yam Tihoni
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12031
+#EXTINF:-1 tvg-ID="channelone.il" tvg-name="VIP IL: Kan33" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Kan33
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/14595
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Israel News HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Israel News HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/41078
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Hala TV FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Hala TV FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19381
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: ONE 4K" tvg-logo="https://image.ibb.co/cAGqgS/yes3hd.png" group-title="Live: Hebrew",VIP IL: ONE 4K
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16514
+#EXTINF:-1 tvg-ID="sportone.il" tvg-name="VIP IL: ONE 1 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: ONE 1 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/21903
+#EXTINF:-1 tvg-ID="sportone.il" tvg-name="VIP IL: ONE 1 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: ONE 1 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/5956
+#EXTINF:-1 tvg-ID="sportone2.il" tvg-name="VIP IL: ONE 2 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: ONE 2 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25827
+#EXTINF:-1 tvg-ID="sportone2.il" tvg-name="VIP IL: ONE 2 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: ONE 2 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19104
+#EXTINF:-1 tvg-ID="sport1.il" tvg-name="VIP IL: YES SPORT1 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT1 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/20415
+#EXTINF:-1 tvg-ID="sport1.il" tvg-name="VIP IL: YES SPORT1 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT1 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/5958
+#EXTINF:-1 tvg-ID="sport2.il" tvg-name="VIP IL: YES SPORT2 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT2 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/21901
+#EXTINF:-1 tvg-ID="sport2.il" tvg-name="VIP IL: YES SPORT2 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT2 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/5957
+#EXTINF:-1 tvg-ID="sport3.il" tvg-name="VIP IL: YES SPORT3 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT3 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/21899
+#EXTINF:-1 tvg-ID="sport3.il" tvg-name="VIP IL: YES SPORT3 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT3 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/11471
+#EXTINF:-1 tvg-ID="sport4.il" tvg-name="VIP IL: YES SPORT4 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT4 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/21900
+#EXTINF:-1 tvg-ID="sport4.il" tvg-name="VIP IL: YES SPORT4 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES SPORT4 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/11472
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Sport 5 4K" tvg-logo="" group-title="Live: Hebrew",VIP IL: Sport 5 4K
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/50637
+#EXTINF:-1 tvg-ID="sport5.il" tvg-name="VIP IL: Sport 5 FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/20416
+#EXTINF:-1 tvg-ID="sport5.il" tvg-name="VIP IL: Sport 5 HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19813
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Sport 5 SD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Sport 5 SD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/41502
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Sport 5+ Live FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5+ Live FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25825
+#EXTINF:-1 tvg-ID="yesoh.il" tvg-name="VIP IL: Sport 5+ Live HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Sport 5+ Live HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16521
+#EXTINF:-1 tvg-ID="5stars.il" tvg-name="VIP IL: Sport 5+ Stars FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5+ Stars FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/5955
+#EXTINF:-1 tvg-ID="starschannel.il" tvg-name="VIP IL: Sport 5+ Stars HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5+ Stars HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25826
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="VIP IL: Sport 5 Plus FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Sport 5 Plus FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/22315
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="VIP IL: Sport 5 Plus" tvg-logo="https://image.ibb.co/mDPnT7/sport5online.png" group-title="Live: Hebrew",VIP IL: Sport 5 Plus
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12823
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Sport 5 Gold" tvg-logo="https://image.ibb.co/cdY31S/sport5gold.jpg" group-title="Live: Hebrew",VIP IL: Sport 5 Gold
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/11725
+#EXTINF:-1 tvg-ID="FoxSportHD.il" tvg-name="VIP IL: Fox Sport HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Fox Sport HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/3341
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Eurosport 1 HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Eurosport 1 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19377
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Eurosport 2 HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Eurosport 2 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19379
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Trace Spôrt Stars" tvg-logo="" group-title="Live: Hebrew",VIP IL: Trace Spôrt Stars
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/63091
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Extreme Sports" tvg-logo="" group-title="Live: Hebrew",VIP IL: Extreme Sports
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19514
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES TV Action FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES TV Action FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/45723
+#EXTINF:-1 tvg-ID="yesaction.il" tvg-name="VIP IL: YES TV Action HD [Multi-Sub]" tvg-logo="https://image.ibb.co/fTogo7/YESACTIONHD.png" group-title="Live: Hebrew",VIP IL: YES TV Action HD [Multi-Sub]
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16517
+#EXTINF:-1 tvg-ID="yesaction.il" tvg-name="VIP IL: YES TV Action HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES TV Action HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25833
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES TV Comedy FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES TV Comedy FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/45725
+#EXTINF:-1 tvg-ID="yescomedy.il" tvg-name="VIP IL: YES TV Comedy HD [Multi-Sub]" tvg-logo="https://preview.ibb.co/i2BZ87/yescomedyhd.png" group-title="Live: Hebrew",VIP IL: YES TV Comedy HD [Multi-Sub]
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16518
+#EXTINF:-1 tvg-ID="yescomedy.il" tvg-name="VIP IL: YES TV Comedy HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES TV Comedy HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25837
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES TV Drama FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES TV Drama FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/45722
+#EXTINF:-1 tvg-ID="yesdrama.il" tvg-name="VIP IL: YES TV Drama HD [Multi-Sub]" tvg-logo="https://image.ibb.co/bP7Kan/yesdramahd.png" group-title="Live: Hebrew",VIP IL: YES TV Drama HD [Multi-Sub]
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16520
+#EXTINF:-1 tvg-ID="yesdrama.il" tvg-name="VIP IL: YES TV Drama HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES TV Drama HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25835
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES Movies Action FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES Movies Action FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/45721
+#EXTINF:-1 tvg-ID="yes2.il" tvg-name="VIP IL: YES Movies Action HD [Multi-Sub]" tvg-logo="https://image.ibb.co/b8mqgS/yes2hd.png" group-title="Live: Hebrew",VIP IL: YES Movies Action HD [Multi-Sub]
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16513
+#EXTINF:-1 tvg-ID="yes2.il" tvg-name="VIP IL: YES Movies Action HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES Movies Action HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25829
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES Movies Kids FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES Movies Kids FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/45718
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES Movies Drama FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES Movies Drama FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/45719
+#EXTINF:-1 tvg-ID="yes1.il" tvg-name="VIP IL: YES Movies Drama HD [Multi-Sub]" tvg-logo="https://image.ibb.co/egEAgS/yes1hd.png" group-title="Live: Hebrew",VIP IL: YES Movies Drama HD [Multi-Sub]
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16512
+#EXTINF:-1 tvg-ID="yes1.il" tvg-name="VIP IL: YES Movies Drama HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES Movies Drama HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25828
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: YES Movies Comedy FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES Movies Comedy FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/45720
+#EXTINF:-1 tvg-ID="yes4.il" tvg-name="VIP IL: YES Movies Comedy HD [Multi-Sub]" tvg-logo="https://image.ibb.co/cwbCvn/yes4hd.png" group-title="Live: Hebrew",VIP IL: YES Movies Comedy HD [Multi-Sub]
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16515
+#EXTINF:-1 tvg-ID="yes4.il" tvg-name="VIP IL: YES Movies Comedy HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES Movies Comedy HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25831
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: YES Docu FHD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES Docu FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25832
+#EXTINF:-1 tvg-ID="yesdoku.il" tvg-name="VIP IL: YES Docu HD [Multi-Sub]" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",VIP IL: YES Docu HD [Multi-Sub]
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16519
+#EXTINF:-1 tvg-ID="yesdoku.il" tvg-name="VIP IL: YES Docu HD" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",VIP IL: YES Docu HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25834
+#EXTINF:-1 tvg-ID="yesisraelicinema.il" tvg-name="VIP IL: YES Cinema HD [Multi-Sub]" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Live: Hebrew",VIP IL: YES Cinema HD [Multi-Sub]
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/26119
+#EXTINF:-1 tvg-ID="yesisraelicinema.il" tvg-name="VIP IL: YES Cinema HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: YES Cinema HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16522
+#EXTINF:-1 tvg-ID="wiz.il" tvg-name="VIP IL: YES Wiz" tvg-logo="" group-title="Live: Hebrew",VIP IL: YES Wiz
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/22644
+#EXTINF:-1 tvg-ID="hot3.il" tvg-name="VIP IL: HOT 3 HD" tvg-logo="https://image.ibb.co/dNLu87/HOT3HD.png" group-title="Live: Hebrew",VIP IL: HOT 3 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6106
+#EXTINF:-1 tvg-ID="channel8.il" tvg-name="VIP IL: HOT 8 HD" tvg-logo="https://image.ibb.co/fDRZ87/HOTChannel8.png" group-title="Live: Hebrew",VIP IL: HOT 8 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/8141
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Senior" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Senior
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/41501
+#EXTINF:-1 tvg-ID="hotzone.il" tvg-name="VIP IL: HOT ZONE HD" tvg-logo="https://image.ibb.co/cs8svn/HOTZONEHD.png" group-title="Live: Hebrew",VIP IL: HOT ZONE HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6107
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT HBO FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT HBO FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/41504
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT HBO HD" tvg-logo="https://image.ibb.co/j3gCvn/HOTHBOHD.png" group-title="Live: Hebrew",VIP IL: HOT HBO HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6110
+#EXTINF:-1 tvg-ID="hotdrama.il" tvg-name="VIP IL: HOT Cinema 1" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 1
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/23802
+#EXTINF:-1 tvg-ID="hotdrama.il" tvg-name="VIP IL: HOT Cinema 1 HD" tvg-logo="https://image.ibb.co/jzqi1S/HOTDRAMAHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 1 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6108
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Cinema 1 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 1 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/64397
+#EXTINF:-1 tvg-ID="hotaction.il" tvg-name="VIP IL: HOT Cinema 2" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 2
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25821
+#EXTINF:-1 tvg-ID="hotaction.il" tvg-name="VIP IL: HOT Cinema 2 HD" tvg-logo="https://image.ibb.co/gLZMo7/HOTACTIONHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 2 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/5960
+#EXTINF:-1 tvg-ID="hotgold.il" tvg-name="VIP IL: HOT Cinema 3" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 3
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25822
+#EXTINF:-1 tvg-ID="hotgold.il" tvg-name="VIP IL: HOT Cinema 3 HD" tvg-logo="https://image.ibb.co/c5Fu87/HOTGOLDHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 3 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/5961
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Cinema 3 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 3 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/64339
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Cinema 2 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 2 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/64338
+#EXTINF:-1 tvg-ID="hotfun.il" tvg-name="VIP IL: HOT Cinema 4" tvg-logo="[" group-title="Live: Hebrew",VIP IL: HOT Cinema 4
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25823
+#EXTINF:-1 tvg-ID="hotfun.il" tvg-name="VIP IL: HOT Cinema 4 HD" tvg-logo="https://image.ibb.co/gfWZ87/HOTFUNHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 4 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6109
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Cinema 4 FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Cinema 4 FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/64340
+#EXTINF:-1 tvg-ID="hotcomedy.il" tvg-name="VIP IL: HOT Comedy Central HD" tvg-logo="https://image.ibb.co/m9EnT7/hotcomedycentralhd.png" group-title="Live: Hebrew",VIP IL: HOT Comedy Central HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: HOT Bidur" tvg-logo="https://image.ibb.co/erxVgS/hotentertainment.png" group-title="Live: Hebrew",VIP IL: HOT Bidur
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6102
+#EXTINF:-1 tvg-ID="hotbollywood.il" tvg-name="VIP IL: HOT Bollywood HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: HOT Bollywood HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/20368
+#EXTINF:-1 tvg-ID="hotbombay.il" tvg-name="VIP IL: HOT Bollyshow" tvg-logo="https://image.ibb.co/grF5Fn/hotbombay.png" group-title="Live: Hebrew",VIP IL: HOT Bollyshow
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12028
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Bollywood HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Bollywood HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/62379
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Big Brother 26" tvg-logo="" group-title="Live: Hebrew",VIP IL: Big Brother 26
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/17205
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Big Brother 26 HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Big Brother 26 HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/58502
+#EXTINF:-1 tvg-ID="homeandfamily.il" tvg-name="VIP IL: Home Plus" tvg-logo="https://image.ibb.co/jGjbMS/HomePlus.png" group-title="Live: Hebrew",VIP IL: Home Plus
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6103
+#EXTINF:-1 tvg-ID="viva.il" tvg-name="VIP IL: VIVA" tvg-logo="https://image.ibb.co/htbean/VIVA.png" group-title="Live: Hebrew",VIP IL: VIVA
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/14531
+#EXTINF:-1 tvg-ID="vivaplus.il" tvg-name="VIP IL: VIVA Plus" tvg-logo="https://image.ibb.co/htbean/VIVA.png" group-title="Live: Hebrew",VIP IL: VIVA Plus
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6101
+#EXTINF:-1 tvg-ID="zoom.il" tvg-name="VIP IL: Zoom" tvg-logo="https://image.ibb.co/fsrj87/zOOM.png" group-title="Live: Hebrew",VIP IL: Zoom
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/8146
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: A+ Kids" tvg-logo="https://preview.ibb.co/eD6j87/Channel20.png" group-title="Live: Hebrew",VIP IL: A+ Kids
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/3340
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: YELADIM" tvg-logo="" group-title="Live: Hebrew",VIP IL: YELADIM
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/60460
+#EXTINF:-1 tvg-ID="hope.il" tvg-name="VIP IL: HOP" tvg-logo="https://image.ibb.co/cSYsvn/HOPIL.png" group-title="Live: Hebrew",VIP IL: HOP
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16062
+#EXTINF:-1 tvg-ID="hotlollypop.il" tvg-name="VIP IL: HOP YALDUT" tvg-logo="https://image.ibb.co/cSYsvn/HOPIL.png" group-title="Live: Hebrew",VIP IL: HOP YALDUT
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6114
+#EXTINF:-1 tvg-ID="disneychannel.il" tvg-name="VIP IL: Disney HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Live: Hebrew",VIP IL: Disney HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/9574
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Disney Jr" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Live: Hebrew",VIP IL: Disney Jr
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/9575
+#EXTINF:-1 tvg-ID="nickelodeon.il" tvg-name="VIP IL: Nickelodeon" tvg-logo="" group-title="Live: Hebrew",VIP IL: Nickelodeon
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19515
+#EXTINF:-1 tvg-ID="nickjr.il" tvg-name="VIP IL: Nick Jr" tvg-logo="https://image.ibb.co/b5Jgo7/NickJr.png" group-title="Live: Hebrew",VIP IL: Nick Jr
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6113
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: NickTeen" tvg-logo="https://image.ibb.co/kA3svn/Nickelodeon.png" group-title="Live: Hebrew",VIP IL: NickTeen
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6112
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Baby TV" tvg-logo="https://image.ibb.co/dsvNvn/BabyTV.png" group-title="Live: Hebrew",VIP IL: Baby TV
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/6111
+#EXTINF:-1 tvg-ID="kidz.il" tvg-name="VIP IL: Hot Kidz" tvg-logo="https://image.ibb.co/f56Z87/logi.png" group-title="Live: Hebrew",VIP IL: Hot Kidz
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12035
+#EXTINF:-1 tvg-ID="luly.il" tvg-name="VIP IL: Luli" tvg-logo="https://preview.ibb.co/buiE87/lulitv.png" group-title="Live: Hebrew",VIP IL: Luli
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12034
+#EXTINF:-1 tvg-ID="juniorchannel.il" tvg-name="VIP IL: JimJam" tvg-logo="[" group-title="Live: Hebrew",VIP IL: JimJam
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19512
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Logi" tvg-logo="" group-title="Live: Hebrew",VIP IL: Logi
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/34679
+#EXTINF:-1 tvg-ID="juniorchannel.il" tvg-name="VIP IL: Junior" tvg-logo="https://image.ibb.co/dyZzan/Junior.png" group-title="Live: Hebrew",VIP IL: Junior
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/8143
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Hero !" tvg-logo="" group-title="Live: Hebrew",VIP IL: Hero !
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/63093
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Turkish Dramas Plus FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Turkish Dramas Plus FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/34819
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Turkish Dramas 2" tvg-logo="" group-title="Live: Hebrew",VIP IL: Turkish Dramas 2
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/45726
+#EXTINF:-1 tvg-ID="mtv2.il" tvg-name="VIP IL: Mikan" tvg-logo="https://image.ibb.co/fpzzan/mikan.png" group-title="Live: Hebrew",VIP IL: Mikan
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12033
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: i 24" tvg-logo="http://image.ibb.co/eZDefn/i24.png" group-title="Live: Hebrew",VIP IL: i 24
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12299
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Fox Business HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Fox Business HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/42009
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Israel Shopping Channel" tvg-logo="" group-title="Live: Hebrew",VIP IL: Israel Shopping Channel
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19513
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Hidabroot Channel" tvg-logo="http://image.ibb.co/iecSY7/hidabroot.png" group-title="Live: Hebrew",VIP IL: Hidabroot Channel
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/7343
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Animal planet" tvg-logo="" group-title="Live: Hebrew",VIP IL: Animal planet
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/35323
+#EXTINF:-1 tvg-ID="mtveurope.il" tvg-name="VIP IL: MTV Isreal" tvg-logo="http://www.camdserver.com/sb_data/files/logo/mtv.jpg" group-title="Live: Hebrew",VIP IL: MTV Isreal
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/9573
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: MTV Hits" tvg-logo="" group-title="Live: Hebrew",VIP IL: MTV Hits
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/42010
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: VH1" tvg-logo="" group-title="Live: Hebrew",VIP IL: VH1
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/42007
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: VH1 Classic" tvg-logo="" group-title="Live: Hebrew",VIP IL: VH1 Classic
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/42008
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Hagiga Mizrahit" tvg-logo="" group-title="Live: Hebrew",VIP IL: Hagiga Mizrahit
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/41503
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: DIY Channel FHD" tvg-logo="" group-title="Live: Hebrew",VIP IL: DIY Channel FHD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/23716
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: The Humor Channel" tvg-logo="" group-title="Live: Hebrew",VIP IL: The Humor Channel
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/19380
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Fashion Isreal HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: Fashion Isreal HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/41252
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: TLC" tvg-logo="" group-title="Live: Hebrew",VIP IL: TLC
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/35322
+#EXTINF:-1 tvg-ID="eentertainment.il" tvg-name="VIP IL: E! Entertainment" tvg-logo="http://image.ibb.co/e0GbRS/entertainment.png" group-title="Live: Hebrew",VIP IL: E! Entertainment
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/14639
+#EXTINF:-1 tvg-ID="cbsreality.il" tvg-name="VIP IL: CBS Reality" tvg-logo="http://image.ibb.co/cBTqmS/cbsreality.png" group-title="Live: Hebrew",VIP IL: CBS Reality
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/14723
+#EXTINF:-1 tvg-ID="ego.il" tvg-name="VIP IL: Ego Total" tvg-logo="http://preview.ibb.co/fv3efn/egototal.png" group-title="Live: Hebrew",VIP IL: Ego Total
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12586
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: National Geographic HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: National Geographic HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/40774
+#EXTINF:-1 tvg-ID="natgeohd.il" tvg-name="VIP IL: National Geographic" tvg-logo="https://preview.ibb.co/jbvi1S/natgeohd.png" group-title="Live: Hebrew",VIP IL: National Geographic
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/9571
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: National Geo Wild HD" tvg-logo="" group-title="Live: Hebrew",VIP IL: National Geo Wild HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/40775
+#EXTINF:-1 tvg-ID="natgeowild.il" tvg-name="VIP IL: National Geo Wild" tvg-logo="https://preview.ibb.co/jbvi1S/natgeohd.png" group-title="Live: Hebrew",VIP IL: National Geo Wild
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/7344
+#EXTINF:-1 tvg-ID="discovery.il" tvg-name="VIP IL: Discovery HD" tvg-logo="https://preview.ibb.co/k0UnT7/discoveryhd.png" group-title="Live: Hebrew",VIP IL: Discovery HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/7342
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Discovery Science" tvg-logo="" group-title="Live: Hebrew",VIP IL: Discovery Science
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/41253
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: ID" tvg-logo="" group-title="Live: Hebrew",VIP IL: ID
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/63092
+#EXTINF:-1 tvg-ID="historychannel.il" tvg-name="VIP IL: Me TV" tvg-logo="" group-title="Live: Hebrew",VIP IL: Me TV
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/23122
+#EXTINF:-1 tvg-ID="historychannel.il" tvg-name="VIP IL: History HD" tvg-logo="https://image.ibb.co/gcNkFn/History_HD.png" group-title="Live: Hebrew",VIP IL: History HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/8142
+#EXTINF:-1 tvg-ID="foodchannel.il" tvg-name="VIP IL: Food Channel" tvg-logo="https://image.ibb.co/nKHVgS/foodchannel.png" group-title="Live: Hebrew",VIP IL: Food Channel
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/7341
+#EXTINF:-1 tvg-ID="foodchannel.il" tvg-name="VIP IL: Food Network HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Food Network HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/22645
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Foody" tvg-logo="" group-title="Live: Hebrew",VIP IL: Foody
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/61503
+#EXTINF:-1 tvg-ID="healthchannel.il" tvg-name="VIP IL: Health Channel" tvg-logo="http://image.ibb.co/mi2GRS/healthchannel.png" group-title="Live: Hebrew",VIP IL: Health Channel
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12032
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Fine Living" tvg-logo="https://image.ibb.co/mjJxT7/fineliving.png" group-title="Live: Hebrew",VIP IL: Fine Living
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12029
+#EXTINF:-1 tvg-ID="goodlifechannel.il" tvg-name="VIP IL: GoodLife" tvg-logo="https://image.ibb.co/bCrCvn/goodlife.png" group-title="Live: Hebrew",VIP IL: GoodLife
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/16283
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Lifetime" tvg-logo="https://image.ibb.co/fgBO1S/Lifetime.png" group-title="Live: Hebrew",VIP IL: Lifetime
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/12030
+#EXTINF:-1 tvg-ID="travelchannel.il" tvg-name="VIP IL: Travel HD" tvg-logo="[" group-title="Live: Hebrew",VIP IL: Travel HD
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/25824
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IL: Travel Channel" tvg-logo="https://image.ibb.co/iPQu87/Travel_Channel.png" group-title="Live: Hebrew",VIP IL: Travel Channel
+http://kingtvland.com:8080/MABR6JHAqY/QBsk1VjNQZ/7340
